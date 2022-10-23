@@ -2,7 +2,7 @@
 手写数字的识别
 
 第一次接触到神经网络是上学时的时候，当时人工智能作业，抄了[Neural Network for Recognition of Handwritten Digits](https://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi)
-这里的作业。
+这里的项目。
 
 最近在学习数学相关的东西，把这个项目拿出来重新看了下。
 
